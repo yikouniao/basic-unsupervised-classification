@@ -1,6 +1,6 @@
 # basic-unsupervised-classification
 
-Classifying two-dimensional data in `dat/1.txt` into patterns with k-means algorithm.
+Classifying two-dimensional data into patterns with k-means algorithm.
 
 Author: [yikouniao](https://github.com/yikouniao)  
 Project link: https://github.com/yikouniao/basic-unsupervised-classifications  
